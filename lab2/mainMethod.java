@@ -1,6 +1,4 @@
-/*Clarification: all of these methods should be in the same file and run using a single main method
-
-Write a toolkit that includes some common functions a user might want or need
+/* Write a toolkit that includes some common functions a user might want or need
 
 An encryption/ decryption method. Both methods should take in a String (the String that needs to be changed), and an encryption value. The methods need to change the String by the value
 This is actually a Caesar cipher, not a real encryption algorithm like DES or AES
